@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e021bd2-381c-452a-bea1-e761cb09839e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Snake_player.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="101" column="52" lean-forward="false" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+              <folding>
+                <marker date="1516781515725" expanded="false" signature="6:100" ph="..." />
+                <marker date="1516781515725" expanded="true" signature="143:2653" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="561:729" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="782:881" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="803:878" ph="/* i += Time.deltaTime; ... */" />
+                <marker date="1516781515725" expanded="true" signature="907:2333" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="1004:1108" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="1204:1308" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="1402:1506" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="1601:1705" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="1752:1885" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="1934:2034" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="2081:2181" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="2228:2330" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="2361:2649" ph="{...}" />
+                <marker date="1516781515725" expanded="true" signature="2407:2625" ph="/* Pos = transform.position + ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Manager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <marker date="1516786013476" expanded="true" signature="6:78" ph="..." />
+                <marker date="1516786013476" expanded="true" signature="116:579" ph="{...}" />
+                <marker date="1516786013476" expanded="true" signature="193:244" ph="{...}" />
+                <marker date="1516786013476" expanded="true" signature="299:306" ph="{...}" />
+                <marker date="1516786013476" expanded="true" signature="329:398" ph="{...}" />
+                <marker date="1516786013476" expanded="true" signature="432:504" ph="{...}" />
+                <marker date="1516786013476" expanded="true" signature="526:577" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Snake_body.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_body.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <marker date="1516781487593" expanded="true" signature="6:78" ph="..." />
+                <marker date="1516781487593" expanded="true" signature="119:437" ph="{...}" />
+                <marker date="1516781487593" expanded="true" signature="246:373" ph="{...}" />
+                <marker date="1516781487593" expanded="true" signature="428:435" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Snake_body.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/Snake_body.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Snake_player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Manager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="588" />
+    <option name="y" value="7" />
+    <option name="width" value="962" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Projet_Orion_Unity (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Projet_Orion_Unity (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Projet_Orion_Unity (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Projet_Orion_Unity (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Script" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Projet_Orion_Unity (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e021bd2-381c-452a-bea1-e761cb09839e" name="Default" comment="" />
+      <created>1516725367328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516725367328</updated>
+      <workItem from="1516725371470" duration="12196000" />
+      <workItem from="1516780570222" duration="1820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14016000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <marker date="1516781515725" expanded="false" signature="6:100" ph="..." />
+            <marker date="1516781515725" expanded="true" signature="143:2653" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="561:729" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="782:881" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="803:878" ph="/* i += Time.deltaTime; ... */" />
+            <marker date="1516781515725" expanded="true" signature="907:2333" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1004:1108" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1204:1308" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1402:1506" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1601:1705" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1752:1885" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1934:2034" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2081:2181" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2228:2330" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2361:2649" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2407:2625" ph="/* Pos = transform.position + ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_body.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding>
+            <marker date="1516781487593" expanded="true" signature="6:78" ph="..." />
+            <marker date="1516781487593" expanded="true" signature="119:437" ph="{...}" />
+            <marker date="1516781487593" expanded="true" signature="246:373" ph="{...}" />
+            <marker date="1516781487593" expanded="true" signature="428:435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <marker date="1516786013476" expanded="true" signature="6:78" ph="..." />
+            <marker date="1516786013476" expanded="true" signature="116:579" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="193:244" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="299:306" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="329:398" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="432:504" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="526:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <marker date="1516786013476" expanded="true" signature="6:78" ph="..." />
+            <marker date="1516786013476" expanded="true" signature="116:579" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="193:244" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="299:306" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="329:398" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="432:504" ph="{...}" />
+            <marker date="1516786013476" expanded="true" signature="526:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="101" column="52" lean-forward="false" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+          <folding>
+            <marker date="1516781515725" expanded="false" signature="6:100" ph="..." />
+            <marker date="1516781515725" expanded="true" signature="143:2653" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="561:729" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="782:881" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="803:878" ph="/* i += Time.deltaTime; ... */" />
+            <marker date="1516781515725" expanded="true" signature="907:2333" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1004:1108" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1204:1308" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1402:1506" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1601:1705" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1752:1885" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="1934:2034" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2081:2181" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2228:2330" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2361:2649" ph="{...}" />
+            <marker date="1516781515725" expanded="true" signature="2407:2625" ph="/* Pos = transform.position + ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_body.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1516781487593" expanded="true" signature="6:78" ph="..." />
+            <marker date="1516781487593" expanded="true" signature="119:437" ph="{...}" />
+            <marker date="1516781487593" expanded="true" signature="246:373" ph="{...}" />
+            <marker date="1516781487593" expanded="true" signature="428:435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
