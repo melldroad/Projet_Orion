@@ -285,6 +285,7 @@
           </e>
         </e>
         <e p="Script" t="Include">
+          <e p="Load_lvl1.cs" t="Include" />
           <e p="Manager.cs" t="Include" />
           <e p="Snake_body.cs" t="Include" />
           <e p="Snake_player.cs" t="Include" />
