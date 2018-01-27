@@ -1,34 +1,36 @@
-﻿using System.Collections;
+﻿using System.CodeDom.Compiler;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Snake_mouvement : MonoBehaviour
+public class Snake_Mouvement : MonoBehaviour
 {
 
 	#region Public_Var
 
-		public List<Transform> Bodys = new List<Transform>();
+	public List<Transform> Bodys = new List<Transform>();
     
-   		public float Mindistance;
-    	public float Speed;
-    	//public float RotationSpeed;
+	public float Mindistance;
+	public float Speed;
+	//public float RotationSpeed;
 
-		public int Snake_Lenght_At_Start;
+	public int Snake_Lenght_At_Start;
 
-		public KeyCode Forward;
-		public KeyCode Left;
-		public KeyCode Right;
-		public KeyCode AddBodyKey;
+	public KeyCode Forward;
+	public KeyCode Left;
+	public KeyCode Right;
+	public KeyCode AddBodyKey;
     
-   	 	public GameObject Body;
+	public string Body;
+	public string Tail;
 
 	#endregion
 
 	#region PrivateVar
 
-		private float distance;
-		private Transform curBody;
-		private Transform prevBody;
+	private float distance;
+	private Transform curBody;
+	private Transform prevBody;
 
 	#endregion
 	// Use this for initialization
@@ -37,6 +39,10 @@ public class Snake_mouvement : MonoBehaviour
 		{
 			AddBody();
 		}
+		
+		Transform newTail = PhotonNetwork.Instantiate(Tail, Bodys[Bodys.Count - 1].position, Bodys[Bodys.Count - 1].rotation, 0).transform;
+		newTail.SetParent(transform);
+		Bodys.Add(newTail);
 	}
 	
 	// Update is called once per frame
@@ -88,8 +94,19 @@ public class Snake_mouvement : MonoBehaviour
 
 	public void AddBody()
 	{
-		Transform newBody = Instantiate(Body, Bodys[Bodys.Count - 1].position, Bodys[Bodys.Count - 1].rotation).transform;
-		newBody.SetParent(transform);
-		Bodys.Add(newBody);
+		if (Bodys.Count > Snake_Lenght_At_Start)
+		{
+			Transform newBody = PhotonNetwork.Instantiate(Body, Bodys[Bodys.Count - 2].position, Bodys[Bodys.Count - 2].rotation, 0).transform;
+			newBody.SetParent(transform);
+			Bodys.Add(newBody);
+			Bodys[Bodys.Count - 1] = Bodys[Bodys.Count - 2];
+			Bodys[Bodys.Count - 2] = newBody;
+		}
+		else
+		{
+			Transform newBody = PhotonNetwork.Instantiate(Body, Bodys[Bodys.Count - 1].position, Bodys[Bodys.Count - 1].rotation, 0).transform;
+			newBody.SetParent(transform);
+			Bodys.Add(newBody);
+		}
 	}
 }

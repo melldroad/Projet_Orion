@@ -7,9 +7,8 @@ public class Manager : MonoBehaviour
 {
 	#region Public_Variable
 	
-	public string Body;
-	public string Head;
-	
+	//public string Body;
+	public string Snake;
 	public bool OnlineGame;
 	
 	#endregion
@@ -17,7 +16,7 @@ public class Manager : MonoBehaviour
 	
 	#region Private_Variable
 	
-	private GameObject head;
+	private GameObject Snake_object;
 
 	#endregion
 	
@@ -30,11 +29,11 @@ public class Manager : MonoBehaviour
 		//PhotonNetwork.Instantiate("Head", transform.position, Quaternion.identity, 0);
 		PhotonNetwork.ConnectUsingSettings("0.1");
 		PhotonNetwork.offlineMode = OnlineGame;
-		if (OnlineGame)
-		{
-			//head = new Snake_player();
-			head = PhotonNetwork.Instantiate(Head, transform.position, Quaternion.identity, 0);
-		}
+		//if (OnlineGame)
+		//{
+		//	//head = new Snake_player();
+		//	head = PhotonNetwork.Instantiate(Snake, transform.position, Quaternion.identity, 0);
+		//}
 
 	}
 	
@@ -65,7 +64,8 @@ public class Manager : MonoBehaviour
 	void OnJoinedRoom()
 	{
 		Debug.Log("Joined");
-		head = PhotonNetwork.Instantiate(Head, transform.position, Quaternion.identity, 0);
+		Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0);
+		Snake_object.GetComponent<Snake_Mouvement>().enabled = true;
 		//Snake_player Head = new Snake_player();
 		//PhotonNetwork.Instantiate("Head", Vector3.zero, Quaternion.identity, 0);
 	}

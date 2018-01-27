@@ -257,7 +257,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1861484170967714}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e1230a8439fcf15428bd9a3118a11605, type: 3}
   m_Name: 
@@ -267,7 +267,7 @@ MonoBehaviour:
   Left: 113
   Forward: 122
   Back: 115
-  Spawn: {fileID: 114343104838889378, guid: b8a325e6c27ec0e43bc42e2d4941523f, type: 2}
+  Spawn: {fileID: 0}
   Bodys: []
   ChangePos: {x: 0, y: 0, z: 0}
   Direction: {x: 0, y: 0, z: 0}
