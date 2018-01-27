@@ -288,7 +288,9 @@
           <e p="Load_lvl1.cs" t="Include" />
           <e p="Manager.cs" t="Include" />
           <e p="Snake_body.cs" t="Include" />
+          <e p="Snake_mouvement.cs" t="Include" />
           <e p="Snake_player.cs" t="Include" />
+          <e p="Snake_ùouvement.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

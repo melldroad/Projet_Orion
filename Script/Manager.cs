@@ -7,8 +7,8 @@ public class Manager : MonoBehaviour
 {
 	#region Public_Variable
 	
-	public string body;
-	public string head;
+	public string Body;
+	public string Head;
 	
 	public bool OnlineGame;
 	
@@ -16,8 +16,8 @@ public class Manager : MonoBehaviour
 
 	
 	#region Private_Variable
-
 	
+	private GameObject head;
 
 	#endregion
 	
@@ -30,11 +30,18 @@ public class Manager : MonoBehaviour
 		//PhotonNetwork.Instantiate("Head", transform.position, Quaternion.identity, 0);
 		PhotonNetwork.ConnectUsingSettings("0.1");
 		PhotonNetwork.offlineMode = OnlineGame;
+		if (OnlineGame)
+		{
+			//head = new Snake_player();
+			head = PhotonNetwork.Instantiate(Head, transform.position, Quaternion.identity, 0);
+		}
 
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+	{
+		
 		if (Input.GetKeyDown(KeyCode.Escape))
 			SceneManager.LoadScene(0);
 	}
@@ -45,7 +52,7 @@ public class Manager : MonoBehaviour
 		
 		Debug.Log("Joined Lobby");
 		PhotonNetwork.JoinRandomRoom();
-	}
+     	}
 
 	//Fonction called when there is no create room
 	void OnPhotonRandomJoinFailed()
@@ -58,7 +65,7 @@ public class Manager : MonoBehaviour
 	void OnJoinedRoom()
 	{
 		Debug.Log("Joined");
-		PhotonNetwork.Instantiate(head, transform.position, Quaternion.identity, 0);
+		head = PhotonNetwork.Instantiate(Head, transform.position, Quaternion.identity, 0);
 		//Snake_player Head = new Snake_player();
 		//PhotonNetwork.Instantiate("Head", Vector3.zero, Quaternion.identity, 0);
 	}
