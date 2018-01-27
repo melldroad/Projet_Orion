@@ -67,8 +67,8 @@
       <file leaf-file-name="Snake_ùouvement.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_ùouvement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="98" column="104" lean-forward="false" selection-start-line="98" selection-start-column="104" selection-end-line="98" selection-end-column="104" />
+            <state relative-caret-position="306">
+              <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
               <folding>
                 <marker date="1517044476921" expanded="true" signature="6:109" ph="..." />
                 <marker date="1517044476921" expanded="true" signature="155:2521" ph="{...}" />
@@ -257,12 +257,12 @@
       <workItem from="1516953831121" duration="15000" />
       <workItem from="1516957410528" duration="5018000" />
       <workItem from="1516998601216" duration="5688000" />
-      <workItem from="1517043290308" duration="1245000" />
+      <workItem from="1517043290308" duration="1892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26146000" />
+    <option name="totallyTimeSpent" value="26793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -970,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_ùouvement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="98" column="104" lean-forward="false" selection-start-line="98" selection-start-column="104" selection-end-line="98" selection-end-column="104" />
+        <state relative-caret-position="306">
+          <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
           <folding>
             <marker date="1517044476921" expanded="true" signature="6:109" ph="..." />
             <marker date="1517044476921" expanded="true" signature="155:2521" ph="{...}" />

@@ -42,7 +42,7 @@ public class Snake_player : MonoBehaviour
 	void Update()
 	{
 		mouvement();
-		mouvement_body();
+		//mouvement_body();
 		if (Input.GetKeyDown(KeyCode.A))
 			create_body();
 		
