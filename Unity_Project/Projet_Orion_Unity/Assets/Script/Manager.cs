@@ -26,8 +26,8 @@ public class Manager : MonoBehaviour
 	void Start ()
 	{
 		PhotonNetwork.ConnectUsingSettings("0.1");
-		PhotonNetwork.offlineMode = OnlineGame;
-		if (OnlineGame)
+		PhotonNetwork.offlineMode = !OnlineGame;
+		if (!OnlineGame)
 		{
 			PhotonNetwork.CreateRoom("room");
 //			Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0);
@@ -65,8 +65,8 @@ public class Manager : MonoBehaviour
 		Debug.Log("Joined");
 		Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0);
 		Snake_object.GetComponent<Snake_Mouvement>().enabled = true;
-		Snake_object.SetActive(false);
-		Snake_object.SetActive(true);
+//		Snake_object.SetActive(false);
+//		Snake_object.SetActive(true);
 //		Transform Camera = PhotonNetwork.Instantiate("Camera", Snake_object.transform.position, Snake_object.transform.rotation, 0).transform;
 //		Camera.SetParent(Snake_object.transform);
 		//Snake_object..enabled = true;

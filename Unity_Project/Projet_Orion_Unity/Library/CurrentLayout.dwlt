@@ -66,8 +66,8 @@ MonoBehaviour:
     y: 0
     width: 215
     height: 947
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -158,10 +158,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 713, y: 471}
-  m_MaxSize: {x: 18008, y: 14021}
+  m_MinSize: {x: 711, y: 471}
+  m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
-  controlID: 9
+  controlID: 81
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -185,7 +185,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 471}
   m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
-  controlID: 2068
+  controlID: 82
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -373,7 +373,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.086400986, y: -0.91359884, z: 0.28050652, w: -0.2814044}
     speed: 2
-    m_Value: {x: -0.08640098, y: -0.9135987, z: 0.2805065, w: -0.28140438}
+    m_Value: {x: 0.086400986, y: 0.9135989, z: -0.28050652, w: 0.2814044}
   m_Size:
     m_Target: 74.646545
     speed: 2
@@ -443,23 +443,23 @@ MonoBehaviour:
     height: 926
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ecfcfdff
-    m_LastClickedID: -131860
-    m_ExpandedIDs: 8a78f6ff8c78f6ff9678f6ff5e7df6ff607df6ffa494f6ffac94f6ff32b0f6ff4ab0f6ff52b0f6ff68d0f6ff6ad0f6ff7ce0f6ff94e0f6ff9ce0f6ff5e16f7ff6016f7ff0ab2f7ff0cb2f7ff0c4bf9fffaa6fdff02a7fdffecfcfdffda0dfeffcc10feff3c13feff6233feffca44feff5a4afeff1451feffc053feff5a3affffb6a3ffff12a6ffff06a8ffffb4c2ffff50c3fffffcc5ffff0ec6ffff82c8ffff3acaffffdaceffff0ce7ffffa6fbffff0000000072330000
+    m_SelectedIDs: e88dfeff
+    m_LastClickedID: -94744
+    m_ExpandedIDs: e88dfeff3e9afeffb09afeff5a9dfeff689dfeff48a3feff44a7feffb0bffeffaa4bffffac4bffffc856ffffe056ffffe856ffffa676ffffa876ffffa6f5ffffa6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Directional Light
+      m_OriginalName: Directional Light
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 14610
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 3}
     m_SearchString: 
@@ -532,19 +532,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Texture/Resources
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Texture/Resources
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\CloudStation\Documents\EPITA\Github Orion\Projet_Orion\Unity_Project\Projet_Orion_Unity
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 11}
-    m_SelectedIDs: e0300000
-    m_LastClickedID: 12512
-    m_ExpandedIDs: 0000000074290000382a0000802d0000022f0000982f00002831000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 74290000
+    m_LastClickedID: 10612
+    m_ExpandedIDs: 0000000074290000382a0000862d0000082f00009a2f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -572,7 +572,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000074290000382a0000802d0000022f0000582f0000982f000028310000
+    m_ExpandedIDs: 0000000074290000382a0000862d0000082f00009a2f000036310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -599,8 +599,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000e49effff5a2900008aecffff6833ffff0a8cf7ff1089e6ff000000007e2e0000f0c8f7ff8429f7ff78c7f6ff
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000e49effff5a2900008aecffff6833ffff0a8cf7ff1089e6ff000000007e2e0000f0c8f7ff8429f7ff78c7f6ff6cd5feff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
