@@ -70,7 +70,6 @@ public class Snake_Mouvement : MonoBehaviour
 		else if (Input.GetKeyDown(Left))
 			Bodys[0].Rotate(Vector3.up * -90);
 
-		//Bodys[0].Rotate(Vector3.up * Time.deltaTime * RotationSpeed * Input.GetAxis("Horizontal"));
 
 		for (int i = 1; i < Bodys.Count; i++)
 		{

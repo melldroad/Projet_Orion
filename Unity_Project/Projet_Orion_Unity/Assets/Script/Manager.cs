@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -20,20 +21,18 @@ public class Manager : MonoBehaviour
 
 	#endregion
 	
-	
-	//private Snake_player Head;
 
 	// Use this for initialization
 	void Start ()
 	{
-		//PhotonNetwork.Instantiate("Head", transform.position, Quaternion.identity, 0);
 		PhotonNetwork.ConnectUsingSettings("0.1");
 		PhotonNetwork.offlineMode = OnlineGame;
-		//if (OnlineGame)
-		//{
-		//	//head = new Snake_player();
-		//	head = PhotonNetwork.Instantiate(Snake, transform.position, Quaternion.identity, 0);
-		//}
+		if (OnlineGame)
+		{
+			PhotonNetwork.CreateRoom("room");
+//			Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0);
+//			Snake_object.GetComponent<Snake_Mouvement>().enabled = true;
+		}
 
 	}
 	
@@ -66,6 +65,11 @@ public class Manager : MonoBehaviour
 		Debug.Log("Joined");
 		Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0);
 		Snake_object.GetComponent<Snake_Mouvement>().enabled = true;
+		Snake_object.SetActive(false);
+		Snake_object.SetActive(true);
+//		Transform Camera = PhotonNetwork.Instantiate("Camera", Snake_object.transform.position, Snake_object.transform.rotation, 0).transform;
+//		Camera.SetParent(Snake_object.transform);
+		//Snake_object..enabled = true;
 		//Snake_player Head = new Snake_player();
 		//PhotonNetwork.Instantiate("Head", Vector3.zero, Quaternion.identity, 0);
 	}
