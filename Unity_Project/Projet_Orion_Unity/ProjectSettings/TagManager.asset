@@ -9,6 +9,9 @@ TagManager:
   - Eatable
   - Wall
   - Camera
+  - Ground
+  - Ceiling
+  - Rewall
   layers:
   - Default
   - TransparentFX

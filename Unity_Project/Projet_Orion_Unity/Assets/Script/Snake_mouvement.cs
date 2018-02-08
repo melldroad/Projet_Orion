@@ -16,6 +16,9 @@ public class Snake_Mouvement : MonoBehaviour
 
 	public int Snake_Lenght_At_Start;
 
+	public GameObject Minimpap;
+	public GameObject SnakeCamera;
+	
 	public KeyCode Forward;
 	public KeyCode Left;
 	public KeyCode Right;
@@ -34,17 +37,23 @@ public class Snake_Mouvement : MonoBehaviour
 
 	#endregion
 	// Use this for initialization
-	void Start () {
+	void Start()
+	{
 		for (int i = 0; i < Snake_Lenght_At_Start - 1; i++)
 		{
 			AddBody();
 		}
-		
+
 		Transform newTail = PhotonNetwork.Instantiate(Tail, Bodys[Bodys.Count - 1].position, Bodys[Bodys.Count - 1].rotation, 0).transform;
 		newTail.SetParent(transform);
 		Bodys.Add(newTail);
+
+		GameObject snakeMap = Instantiate(Minimpap);
+		snakeMap.transform.SetParent(Bodys[1]);
+		GameObject snakeCamera = Instantiate(SnakeCamera);
+		snakeCamera.transform.SetParent(Bodys[1]);
 	}
-	
+
 	// Update is called once per frame
 	void Update ()
 	{
@@ -107,5 +116,21 @@ public class Snake_Mouvement : MonoBehaviour
 			newBody.SetParent(transform);
 			Bodys.Add(newBody);
 		}
+	}
+
+	private void OnCollisionEnter(UnityEngine.Collision other)
+	{
+		Debug.Log(other.collider.name);
+//		Debug.Log("Collision");
+//		if (other.collider.tag == "Wall")
+//		{
+//			Debug.Log("A wall is behind you");
+//			Bodys[0].Rotate(0, 0, 90);
+//		}
+//		else
+//		{
+//			Debug.Log("Collision");
+//		}
+		//throw new System.NotImplementedException();
 	}
 }

@@ -204,6 +204,7 @@ e763036081c708b34f78f5a56f72c23d TextMeshPro-2017.2-1.0.56-Runtime.dll:TMPro.TMP
 5833a86cc374f497ae8d9fb9d8c3e5f4 TextMeshPro-2017.2-1.0.56-Runtime.dll:TMPro.TMP_SubMeshUI
 d672cee35261f9935d5ce974c746730f TextMeshPro-2017.2-1.0.56-Runtime.dll:TMPro.TMP_Text
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.TMP_TextSelector_A
+672a6f17261d9fd18233ea2cdc670213 Assembly-CSharp.dll:.Minimap
 b900ead596b2fb1093b31cb63a678767 Assembly-CSharp.dll:TMPro.Examples.TextMeshProFloatingText
 4ce2b1853c9a392b036a6a654be90ccb Assembly-CSharp.dll:.OnClickInstantiate
 a7a85e3660316548e6df72942099a49d Assembly-CSharp.dll:.MessageOverlay
@@ -297,7 +298,7 @@ fe180736ec3bd9cf69fd20bbec04acfb Assembly-CSharp.dll:ExitGames.Demos.DemoAnimato
 6b7f3b627f03aa2dae54ad0ecb0a7d7a Assembly-CSharp.dll:.PhotonLagSimulationGui
 8e75c7ff572e377afe5aec0a3c77276b Assembly-CSharp.dll:.PickupCamera
 e29eedec83444c5ff91ad08de30f1219 Assembly-CSharp.dll:.GUICustomAuth
-48f924bf08d8967daac3e42ecdcb1c2f Assembly-CSharp.dll:.Snake_Mouvement
+6ba225d5863e2dc4cb4fe5d5791e86de Assembly-CSharp.dll:.Snake_Mouvement
 48a9dee325686d1924a2646b71c83f08 Assembly-CSharp.dll:TMPro.Examples.Benchmark01
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 8e75c7ff572e377afe5aec0a3c77276b Assembly-CSharp.dll:.ThirdPersonCamera
@@ -334,4 +335,4 @@ af7666733efcc974926d7d470e1732a6 Assembly-CSharp.dll:TMPro.Examples.SkewTextExam
 54a26a95db9c623b6eb6fc01ae3ef891 Assembly-CSharp.dll:.CubeExtra
 34e025057ef78b1bf238460cdf6583a3 Assembly-CSharp.dll:TMPro.Examples.ObjectSpin
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.SimpleScript
-672a6f17261d9fd18233ea2cdc670213 Assembly-CSharp.dll:.Minimap
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.OnCollision
