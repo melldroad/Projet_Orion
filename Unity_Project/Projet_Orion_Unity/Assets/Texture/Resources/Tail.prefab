@@ -24,7 +24,6 @@ GameObject:
   - component: {fileID: 23725666524895688}
   - component: {fileID: 54612926138453626}
   - component: {fileID: 114364463811424470}
-  - component: {fileID: 114514780921431798}
   m_Layer: 8
   m_Name: Tail
   m_TagString: Body
@@ -127,17 +126,6 @@ MonoBehaviour:
   instantiationId: -1
   currentMasterID: -1
   isRuntimeInstantiated: 0
---- !u!114 &114514780921431798
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1321852560087400}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5d015fdc72dae640ae4bce6197a54f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!135 &135689429498990736
 SphereCollider:
   m_ObjectHideFlags: 1

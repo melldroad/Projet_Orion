@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 18132557}
   - component: {fileID: 18132556}
   - component: {fileID: 18132555}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: rewall2
   m_TagString: Rewall
   m_Icon: {fileID: 0}
@@ -137,7 +137,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 18132553}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.049999997, z: -0.7}
+  m_LocalPosition: {x: 0, y: 0.049999997, z: -0.655}
   m_LocalScale: {x: 1.02, y: 1, z: 0.1}
   m_Children: []
   m_Father: {fileID: 1871077545}
@@ -369,7 +369,7 @@ GameObject:
   - component: {fileID: 138398136}
   - component: {fileID: 138398135}
   - component: {fileID: 138398134}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: rewall1
   m_TagString: Rewall
   m_Icon: {fileID: 0}
@@ -383,7 +383,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 138398132}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.05, z: 0.7}
+  m_LocalPosition: {x: 0, y: 0.05, z: 0.655}
   m_LocalScale: {x: 1.02, y: 1, z: 0.1}
   m_Children: []
   m_Father: {fileID: 1871077545}
@@ -1535,7 +1535,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 696394477}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.531, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5305, z: 0}
   m_LocalScale: {x: 1.05, y: 0.02, z: 1.2994602}
   m_Children: []
   m_Father: {fileID: 1871077545}
@@ -2194,7 +2194,7 @@ GameObject:
   - component: {fileID: 1125028944}
   - component: {fileID: 1125028943}
   - component: {fileID: 1125028942}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: rewall4
   m_TagString: Rewall
   m_Icon: {fileID: 0}
@@ -2208,7 +2208,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1125028940}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.515, y: 0.049999997, z: 0}
+  m_LocalPosition: {x: 0.5127, y: 0.049999997, z: 0}
   m_LocalScale: {x: 0.005, y: 1, z: 1.5}
   m_Children: []
   m_Father: {fileID: 1871077545}
@@ -2478,7 +2478,7 @@ GameObject:
   - component: {fileID: 1337050756}
   - component: {fileID: 1337050755}
   - component: {fileID: 1337050754}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: rewall3
   m_TagString: Rewall
   m_Icon: {fileID: 0}
@@ -2492,7 +2492,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1337050752}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.515, y: 0.049999997, z: 0}
+  m_LocalPosition: {x: -0.5127, y: 0.049999997, z: 0}
   m_LocalScale: {x: 0.005, y: 1, z: 1.5}
   m_Children: []
   m_Father: {fileID: 1871077545}
@@ -4262,8 +4262,8 @@ GameObject:
   - component: {fileID: 1871077544}
   - component: {fileID: 1871077543}
   - component: {fileID: 1871077542}
-  m_Layer: 0
-  m_Name: Cube
+  m_Layer: 9
+  m_Name: Wall
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4790,7 +4790,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2048018721}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 877.5, y: 493.5, z: 0}
+  m_LocalPosition: {x: 553, y: 311, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1932411825}
