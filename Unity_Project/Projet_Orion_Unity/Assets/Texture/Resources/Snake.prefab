@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 54506364793145056}
   - component: {fileID: 114013628912674258}
   - component: {fileID: 114587511892186800}
-  - component: {fileID: 114762169471134236}
+  - component: {fileID: 114360004189406780}
   m_Layer: 8
   m_Name: Snake_head
   m_TagString: Head
@@ -190,6 +190,17 @@ MonoBehaviour:
   instantiationId: -1
   currentMasterID: -1
   isRuntimeInstantiated: 0
+--- !u!114 &114360004189406780
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1714746064363606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eff1ac9398b47644b4058b804f03afc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114587511892186800
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -203,17 +214,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Map: {fileID: 0}
   MapActive: 1
---- !u!114 &114762169471134236
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1714746064363606}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6919fdff507c9714a82425600196d084, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114804754134075592
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -251,7 +251,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8eff1ac9398b47644b4058b804f03afc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  t: {fileID: 4211612391748570}
 --- !u!114 &114875841562378224
 MonoBehaviour:
   m_ObjectHideFlags: 1

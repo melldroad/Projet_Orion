@@ -10,12 +10,17 @@ public class OptionMenu : MonoBehaviour
 	
 	public void SetVolume(float volume)
 	{
-		//Mixer.SetFloat("MainVolume", volume);
+		Mixer.SetFloat("MainVolume", volume);
 		Debug.Log(volume);
 	}
 
 	public void SetQuality(int qualityLvl)
 	{
 		QualitySettings.SetQualityLevel(qualityLvl);
+	}
+
+	public void SetMusiqueVolume(float vol)
+	{
+		GameObject.Find("Musique").GetComponent<AudioSource>().volume = vol;
 	}
 }
