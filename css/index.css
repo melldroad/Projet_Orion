@@ -43,6 +43,11 @@ strong
 	font-weight: underline;
 }
 
+#download
+{
+	: right;
+}
+
 
 .imp
 {
