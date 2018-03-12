@@ -1,4 +1,66 @@
+*
+{
+	font-family: Trebuchet MSl;
+}
+html
+{
+	background-image: url(../images/background2.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+body
+{
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.div1
+{
+	margin: 5%;
+	margin-top: 5%;
+}
+
+a
+{
+	color: black;
+	font-weight: bold;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+strong
+{
+	text-decoration: none;
+	font-weight: underline;
+}
+
+
 .imp
 {
 	color: blue;
+}
+p
+{
+	font-size: .8em;
+}
+#snake
+{
+	text-align: center;
+}
+h1
+{
+	text-align: center;
+	font-size: 300%;
+	font-weight: bold;
+	font-weight: italic;
+	color: red;
 }
