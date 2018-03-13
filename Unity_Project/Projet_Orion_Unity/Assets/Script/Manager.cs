@@ -50,7 +50,7 @@ public class Manager : MonoBehaviour
 		
 		Debug.Log("Joined Lobby");
 		PhotonNetwork.JoinRandomRoom();
-     	}
+     }
 
 	//Fonction called when there is no create room
 	void OnPhotonRandomJoinFailed()
@@ -64,7 +64,7 @@ public class Manager : MonoBehaviour
 	{
 		Debug.Log("Joined");
 		Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0);
-		Snake_object.GetComponent<Snake_Mouvement>().enabled = true;
+		Snake_object.GetComponent<snake_mouvement>().enabled = true;
 //		Snake_object.SetActive(false);
 //		Snake_object.SetActive(true);
 //		Transform Camera = PhotonNetwork.Instantiate("Camera", Snake_object.transform.position, Snake_object.transform.rotation, 0).transform;
