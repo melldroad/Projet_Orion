@@ -1,28 +1,43 @@
 <!DOCTYPE html>
 <html>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<link rel="stylesheet" href="css/index.css" />	
-	<title>
-		Projet Orion
-	</title>
-  
-	<body>
-	<div class="div1">
-		<br>
-		<h1 >Projet Orion</h1>
-		<a id="download" href="pages/pages_internet.html" title="Télécharger le jeu ici"> <strong>Télécharger le jeu</strong> </a>
-		<p>Il faudra ajouter du texte ici</p>
-		
-		<figure id="snake">
-			<a href="images/snake.jpg" title="cliquer pour agrandir" > <img src="images/snake_mini.png" alt="Un serpent"/> </a>
-		</figure>
-		
-		<p class="imp"> Pour se rendre sur la deuxième page, <a href="pages/pages_internet.html"> cliquer ici </a>
-		
-		<h2 id="MonTitre"> Mon titre 2 </h2>
-		
-		<br>
-		<br>
-	</div>
-	</body>
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="css/pages_internet.css"/>
+	<title>Projet Orion</title>
+</head>
+
+<body>
+<table class="maintable">
+	<tbody>
+		<tr> <!--Title-->
+			<th class="title"><a id="title" href="testsite.html">Projet Orion</a></th>
+		</tr>
+		<tr> <!--Navigation-->
+			<td class="navtable">
+				<table class="navtable">
+					<tbody>
+						<tr> <!--Liste des liens de navigation-->
+							<td><a class="link" href="index.html" title="Home">Home</a></td>
+							<td><a class="link" href="pages/download_page.html" title="Page de t�l�chargement">Downloads</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr> <!--Content-->
+			<td class="content">
+				<figure id="snake">
+					<a href="images/snake_mini.jpg" title="Cliquer pour agrandir"><img src="images/snake_mini.png" alt="Un serpent"/></a>
+				</figure>
+			</td>
+		</tr>
+		<tr> <!--footer-->
+			<td class="footer">
+				<a class="link" href="pages/contact.html">Contact</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+
 </html>

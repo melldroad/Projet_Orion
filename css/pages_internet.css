@@ -38,6 +38,24 @@ html
 	padding-left: 20px;
 }
 
+.footer
+{
+	text-align: right;
+	background: rgb(240,240,255);
+	padding: 5px;
+}
+
+.footer a
+{
+	text-decoration: none;
+	color: blue;
+}
+
+#snake
+{
+	text-align: center;
+}
+
 th
 {
 	background-color: rgb(200,200,255);
@@ -46,25 +64,25 @@ th
 	border-radius: 5px;
 }
 
-.navtable a:link
+.navtable a:link, .footer a:link
 {
 	color: blue;
 	text-decoration: none;
 	background-color: transparent;
 }
-.navtable a:visited
+.navtable a:visited, .footer a:visited
 {
 	color: green;
 	text-decoration: none;
 	background-color: transparent;
 }
-.navtable a:hover
+.navtable a:hover, .footer a:hover
 {
 	color: red;
 	text-decoration: underline;
 }
 
-.navtable a:active
+.navtable a:active, .footer a:active
 {
 	color: purple;
 	text-decoration: underline;
