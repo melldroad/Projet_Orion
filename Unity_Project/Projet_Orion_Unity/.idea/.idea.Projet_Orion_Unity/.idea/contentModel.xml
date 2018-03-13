@@ -291,6 +291,7 @@
           <e p="MainMenu.cs" t="Include" />
           <e p="Manager.cs" t="Include" />
           <e p="Minimap.cs" t="Include" />
+          <e p="OnCollisionRaycast.cs" t="Include" />
           <e p="OptionMenu.cs" t="Include" />
           <e p="Snake_body.cs" t="Include" />
           <e p="Snake_mouvement.cs" t="Include" />

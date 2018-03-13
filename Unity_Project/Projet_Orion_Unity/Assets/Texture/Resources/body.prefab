@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 135155435318118888}
   - component: {fileID: 23473954570953442}
   - component: {fileID: 114240139363346864}
+  - component: {fileID: 114976746456115318}
   - component: {fileID: 54324118907949580}
   m_Layer: 8
   m_Name: body
@@ -126,6 +127,17 @@ MonoBehaviour:
   instantiationId: -1
   currentMasterID: -1
   isRuntimeInstantiated: 0
+--- !u!114 &114976746456115318
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1104818173047710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5d015fdc72dae640ae4bce6197a54f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!135 &135155435318118888
 SphereCollider:
   m_ObjectHideFlags: 1

@@ -65,14 +65,14 @@ public class OnCollisionRaycast : MonoBehaviour
 	private void OnCollisionEnter(Collision other)
 	{
 		Debug.Log("COLISION !!!");
-		if (other.collider.tag == "Wall")
+		if (other.GetComponent<Collider>().tag == "Wall")
 		{
 			raycastDir = new Vector3();
 			Debug.Log("I hit a wall");
 			transform.rotation = Quaternion.Euler(-90, transform.rotation.eulerAngles.y, 0);
 			raycastDir = transform.eulerAngles;
 		}
-		else if (other.collider.tag == "Ground")
+		else if (other.GetComponent<Collider>().tag == "Ground")
 		{
 			raycastDir = Vector3.down;
 			Debug.Log("This is the ground");
