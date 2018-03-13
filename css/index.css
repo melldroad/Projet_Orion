@@ -48,6 +48,17 @@ strong
 	: right;
 }
 
+.download
+{
+	border: 3px black inset;
+	font-size: 120%;
+}
+
+ul
+{
+	text-decoration: none;
+}
+
 
 .imp
 {

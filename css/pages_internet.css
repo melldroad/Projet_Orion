@@ -1,0 +1,71 @@
+html
+{
+	font-family: Trebuchet MSl, arial, helvetica, sans-serif;
+	background-image: url(../images/background2.jpg);
+}
+
+.maintable
+{
+	margin: 0 auto;
+	width: 60%;
+	background: white;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+.navtable
+{
+	text-align: left;
+	background: rgb(240,240,255);
+	border: 0px;
+}
+
+.navtable tr td
+{
+	padding-left: 20px;
+}
+
+.title a
+{
+	color: blue;
+	font-family: Times, serif;
+	font-size: 300%;
+	text-decoration: none;
+}
+
+.content
+{
+	padding-left: 20px;
+}
+
+th
+{
+	background-color: rgb(200,200,255);
+	color: blue;
+	border: 1px white solid;
+	border-radius: 5px;
+}
+
+.navtable a:link
+{
+	color: blue;
+	text-decoration: none;
+	background-color: transparent;
+}
+.navtable a:visited
+{
+	color: green;
+	text-decoration: none;
+	background-color: transparent;
+}
+.navtable a:hover
+{
+	color: red;
+	text-decoration: underline;
+}
+
+.navtable a:active
+{
+	color: purple;
+	text-decoration: underline;
+}
