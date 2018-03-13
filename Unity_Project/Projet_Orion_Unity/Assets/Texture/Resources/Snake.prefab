@@ -78,6 +78,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 4211612391748570}
   - component: {fileID: 33156578257783028}
   - component: {fileID: 135187491421713162}
@@ -90,12 +91,17 @@ GameObject:
   m_Name: Snake_head
   m_TagString: Head
 =======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
   - component: {fileID: 224386910691552598}
   - component: {fileID: 222108227519284488}
   - component: {fileID: 114277909724328054}
   m_Layer: 9
   m_Name: Panel
   m_TagString: Untagged
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -337,7 +343,11 @@ MonoBehaviour:
   currentMasterID: -1
   isRuntimeInstantiated: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114360004189406780
+=======
+--- !u!114 &114603793108041910
+>>>>>>> parent of e94ca42... Correction de bug
 =======
 --- !u!114 &114603793108041910
 >>>>>>> parent of e94ca42... Correction de bug
@@ -349,6 +359,7 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 8eff1ac9398b47644b4058b804f03afc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -357,6 +368,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d71fa4cc7c82ee4988b1f998eb4c8ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_Script: {fileID: 11500000, guid: 5d71fa4cc7c82ee4988b1f998eb4c8ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> parent of e94ca42... Correction de bug
   Bodys:
   - {fileID: 4446651382682084}
   Mindistance: 1
@@ -372,6 +388,9 @@ MonoBehaviour:
   Body: Body
   Tail: Tail
 --- !u!114 &114648750656078988
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -380,6 +399,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1551140023937480}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 71047786d27a0cb46b9f9c2e0072eb99, type: 3}
   m_Name: 
@@ -391,6 +411,11 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> parent of e94ca42... Correction de bug
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
@@ -402,6 +427,9 @@ MonoBehaviour:
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
 --- !u!114 &114655851303549520
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -440,7 +468,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114875841562378224
+=======
+  Map: {fileID: 20829953540113588}
+  MapActive: 1
+--- !u!114 &114856928717644942
+>>>>>>> parent of e94ca42... Correction de bug
 =======
   Map: {fileID: 20829953540113588}
   MapActive: 1

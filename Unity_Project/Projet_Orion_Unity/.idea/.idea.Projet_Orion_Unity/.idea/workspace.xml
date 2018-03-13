@@ -15,8 +15,13 @@
         <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_mouvement.cs">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="680">
               <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+=======
+            <state relative-caret-position="578">
+              <caret line="122" column="39" lean-forward="false" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
+>>>>>>> parent of e94ca42... Correction de bug
 =======
             <state relative-caret-position="578">
               <caret line="122" column="39" lean-forward="false" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
@@ -46,6 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/OnCollision.cs">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding>
@@ -62,6 +68,11 @@
             <state relative-caret-position="306">
               <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
               <folding>
+=======
+            <state relative-caret-position="306">
+              <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+              <folding>
+>>>>>>> parent of e94ca42... Correction de bug
                 <marker date="1518110806737" expanded="false" signature="6:78" ph="..." />
                 <marker date="1518110806737" expanded="true" signature="121:976" ph="{...}" />
                 <marker date="1518110806737" expanded="true" signature="171:178" ph="{...}" />
@@ -71,12 +82,16 @@
                 <marker date="1518110806737" expanded="true" signature="523:661" ph="{...}" />
                 <marker date="1518110806737" expanded="true" signature="705:889" ph="{...}" />
                 <marker date="1518110806737" expanded="true" signature="932:971" ph="{...}" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="OnCollisionRaycast.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/OnCollisionRaycast.cs">
@@ -101,12 +116,23 @@
             <state relative-caret-position="272">
               <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
+=======
+      <file leaf-file-name="Collision.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Collision.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding>
+>>>>>>> parent of e94ca42... Correction de bug
                 <marker date="1517149516862" expanded="false" signature="6:78" ph="..." />
                 <marker date="1517149516862" expanded="true" signature="119:354" ph="{...}" />
                 <marker date="1517149516862" expanded="true" signature="169:176" ph="{...}" />
                 <marker date="1517149516862" expanded="true" signature="231:238" ph="{...}" />
                 <marker date="1517149516862" expanded="true" signature="285:352" ph="{...}" />
                 <marker date="1517149516862" expanded="true" signature="315:349" ph="{...}" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
               </folding>
             </state>
@@ -148,6 +174,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="408">
               <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding>
@@ -166,6 +193,8 @@
                 <marker date="1520958179534" expanded="true" signature="1858:2135" ph="{...}" />
                 <marker date="1520958179534" expanded="true" signature="1864:2132" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
 =======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
             <state relative-caret-position="646">
               <caret line="66" column="68" lean-forward="false" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
               <folding>
@@ -183,6 +212,9 @@
                 <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
                 <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
                 <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
               </folding>
             </state>
@@ -222,23 +254,33 @@
     <setting file="file://$PROJECT_DIR$/Assets/Script/Snake_body.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs" root0="FORCE_HIGHLIGHTING" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
     <setting file="file://$PROJECT_DIR$/Assets/Photon/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Snake_mouvement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Load_Scene.cs" root0="FORCE_HIGHLIGHTING" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Assets/Photon/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/OnCollisionRaycast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/OnCollision.cs" root0="FORCE_HIGHLIGHTING" />
+=======
+>>>>>>> parent of e94ca42... Correction de bug
 =======
 >>>>>>> parent of e94ca42... Correction de bug
     <setting file="file://$PROJECT_DIR$/Assets/Script/Minimap.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Snake_premouvement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Assets/Script/OptionMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Collision.cs" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> parent of e94ca42... Correction de bug
 =======
     <setting file="file://$PROJECT_DIR$/Assets/Script/Collision.cs" root0="FORCE_HIGHLIGHTING" />
 >>>>>>> parent of e94ca42... Correction de bug
@@ -262,9 +304,12 @@
         <option value="$PROJECT_DIR$/Assets/Script/Snake_Mouvement.cs" />
         <option value="$PROJECT_DIR$/Assets/OnCollision.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Assets/Script/Manager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/OnCollisionRaycast.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/OptionMenu.cs" />
+=======
+>>>>>>> parent of e94ca42... Correction de bug
 =======
 >>>>>>> parent of e94ca42... Correction de bug
       </list>
@@ -356,6 +401,7 @@
       <workItem from="1518039360128" duration="273000" />
       <workItem from="1518088427267" duration="13367000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1518115051529" duration="773000" />
       <workItem from="1518184653789" duration="5161000" />
       <workItem from="1520784540240" duration="4303000" />
@@ -363,12 +409,18 @@
       <workItem from="1520960335355" duration="202000" />
 =======
 >>>>>>> parent of e94ca42... Correction de bug
+=======
+>>>>>>> parent of e94ca42... Correction de bug
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="70582000" />
+=======
+    <option name="totallyTimeSpent" value="57462000" />
+>>>>>>> parent of e94ca42... Correction de bug
 =======
     <option name="totallyTimeSpent" value="57462000" />
 >>>>>>> parent of e94ca42... Correction de bug
@@ -426,6 +478,104 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_Mouvement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding>
+            <marker date="1518107033215" expanded="false" signature="6:109" ph="..." />
+            <marker date="1518107033215" expanded="true" signature="155:3065" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="160:576" ph="Public_Var" />
+            <marker date="1518107033215" expanded="true" signature="579:693" ph="PrivateVar" />
+            <marker date="1518107033215" expanded="true" signature="739:1198" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="796:818" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="1251:1326" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="1301:1323" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="1347:2147" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="1692:2144" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="2171:2714" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="2217:2505" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="2512:2711" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="2775:3063" ph="{...}" />
+            <marker date="1518107033215" expanded="true" signature="2813:3060" ph="/* Debug.Log(&quot;Collision&quot;); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Load_lvl1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
+            <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
+            <marker date="1517173818108" expanded="true" signature="283:356" ph="Private_Variable" />
+            <marker date="1517173818108" expanded="true" signature="406:725" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="516:721" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="558:717" ph="/* Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0); ... */" />
+            <marker date="1517173818108" expanded="true" signature="779:858" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="927:1004" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1086:1158" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1228:1820" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
+            <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_body.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_ùouvement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="9" lean-forward="false" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Testlink.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Load_lvl1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
+            <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
+            <marker date="1517173818108" expanded="true" signature="283:356" ph="Private_Variable" />
+            <marker date="1517173818108" expanded="true" signature="406:725" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="516:721" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="558:717" ph="/* Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0); ... */" />
+            <marker date="1517173818108" expanded="true" signature="779:858" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="927:1004" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1086:1158" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1228:1820" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
+            <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_body.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> parent of e94ca42... Correction de bug
     <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_Mouvement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -502,6 +652,7 @@
           <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <marker date="1520958179534" expanded="false" signature="6:127" ph="..." />
             <marker date="1520958179534" expanded="true" signature="165:2138" ph="{...}" />
             <marker date="1520958179534" expanded="true" signature="169:278" ph="Public_Variable" />
@@ -517,6 +668,8 @@
             <marker date="1520958179534" expanded="true" signature="1858:2135" ph="{...}" />
             <marker date="1520958179534" expanded="true" signature="1864:2132" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
 =======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
             <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
             <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
@@ -531,6 +684,9 @@
             <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
             <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
           </folding>
         </state>
@@ -613,6 +769,7 @@
           <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <marker date="1520958179534" expanded="false" signature="6:127" ph="..." />
             <marker date="1520958179534" expanded="true" signature="165:2138" ph="{...}" />
             <marker date="1520958179534" expanded="true" signature="169:278" ph="Public_Variable" />
@@ -628,6 +785,8 @@
             <marker date="1520958179534" expanded="true" signature="1858:2135" ph="{...}" />
             <marker date="1520958179534" expanded="true" signature="1864:2132" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
 =======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
             <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
             <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
@@ -642,6 +801,9 @@
             <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
             <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
           </folding>
         </state>
@@ -657,46 +819,6 @@
           <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
 <<<<<<< HEAD
-            <marker date="1520958179534" expanded="false" signature="6:127" ph="..." />
-            <marker date="1520958179534" expanded="true" signature="165:2138" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="169:278" ph="Public_Variable" />
-            <marker date="1520958179534" expanded="true" signature="283:356" ph="Private_Variable" />
-            <marker date="1520958179534" expanded="true" signature="406:725" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="516:721" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="558:717" ph="/* Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0); ... */" />
-            <marker date="1520958179534" expanded="true" signature="779:858" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="927:1004" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="1086:1158" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="1228:1822" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="1411:1819" ph="/* Snake_object.SetActive(false); ... */" />
-            <marker date="1520958179534" expanded="true" signature="1858:2135" ph="{...}" />
-            <marker date="1520958179534" expanded="true" signature="1864:2132" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
-=======
-            <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
-            <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
-            <marker date="1517173818108" expanded="true" signature="283:356" ph="Private_Variable" />
-            <marker date="1517173818108" expanded="true" signature="406:725" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="516:721" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="558:717" ph="/* Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0); ... */" />
-            <marker date="1517173818108" expanded="true" signature="779:858" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="927:1004" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="1086:1158" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="1228:1820" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
-            <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
-            <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
->>>>>>> parent of e94ca42... Correction de bug
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
 <<<<<<< HEAD
             <marker date="1520958179534" expanded="false" signature="6:127" ph="..." />
             <marker date="1520958179534" expanded="true" signature="165:2138" ph="{...}" />
@@ -713,6 +835,8 @@
             <marker date="1520958179534" expanded="true" signature="1858:2135" ph="{...}" />
             <marker date="1520958179534" expanded="true" signature="1864:2132" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
 =======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
             <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
             <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
@@ -727,6 +851,56 @@
             <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
             <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
+>>>>>>> parent of e94ca42... Correction de bug
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_player.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <marker date="1520958179534" expanded="false" signature="6:127" ph="..." />
+            <marker date="1520958179534" expanded="true" signature="165:2138" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="169:278" ph="Public_Variable" />
+            <marker date="1520958179534" expanded="true" signature="283:356" ph="Private_Variable" />
+            <marker date="1520958179534" expanded="true" signature="406:725" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="516:721" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="558:717" ph="/* Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0); ... */" />
+            <marker date="1520958179534" expanded="true" signature="779:858" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="927:1004" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="1086:1158" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="1228:1822" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="1411:1819" ph="/* Snake_object.SetActive(false); ... */" />
+            <marker date="1520958179534" expanded="true" signature="1858:2135" ph="{...}" />
+            <marker date="1520958179534" expanded="true" signature="1864:2132" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+=======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
+            <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
+            <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
+            <marker date="1517173818108" expanded="true" signature="283:356" ph="Private_Variable" />
+            <marker date="1517173818108" expanded="true" signature="406:725" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="516:721" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="558:717" ph="/* Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0); ... */" />
+            <marker date="1517173818108" expanded="true" signature="779:858" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="927:1004" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1086:1158" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1228:1820" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
+            <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
           </folding>
         </state>
@@ -741,6 +915,7 @@
           <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <marker date="1520958179534" expanded="false" signature="6:127" ph="..." />
             <marker date="1520958179534" expanded="true" signature="165:2138" ph="{...}" />
             <marker date="1520958179534" expanded="true" signature="169:278" ph="Public_Variable" />
@@ -756,6 +931,8 @@
             <marker date="1520958179534" expanded="true" signature="1858:2135" ph="{...}" />
             <marker date="1520958179534" expanded="true" signature="1864:2132" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
 =======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
             <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
             <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
@@ -770,6 +947,9 @@
             <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
             <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
             <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
           </folding>
         </state>
@@ -841,6 +1021,33 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/Minimap.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="66" column="68" lean-forward="false" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+          <folding>
+            <marker date="1517173818108" expanded="false" signature="6:127" ph="..." />
+            <marker date="1517173818108" expanded="true" signature="165:2136" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="169:278" ph="Public_Variable" />
+            <marker date="1517173818108" expanded="true" signature="283:356" ph="Private_Variable" />
+            <marker date="1517173818108" expanded="true" signature="406:725" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="516:721" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="558:717" ph="/* Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0); ... */" />
+            <marker date="1517173818108" expanded="true" signature="779:858" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="927:1004" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1086:1158" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1228:1820" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1409:1817" ph="/* Snake_object.SetActive(false); ... */" />
+            <marker date="1517173818108" expanded="true" signature="1856:2133" ph="{...}" />
+            <marker date="1517173818108" expanded="true" signature="1862:2130" ph="/* for (int i = 0; i &lt; Head.Bodys.Count; i++) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> parent of e94ca42... Correction de bug
     <entry file="file://$PROJECT_DIR$/Assets/Photon/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1360">
@@ -950,6 +1157,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Assets/Script/Collision.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/OnCollision.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_mouvement.cs">
@@ -978,12 +1186,22 @@
         <state relative-caret-position="272">
           <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Collision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+>>>>>>> parent of e94ca42... Correction de bug
             <marker date="1517149516862" expanded="false" signature="6:78" ph="..." />
             <marker date="1517149516862" expanded="true" signature="119:354" ph="{...}" />
             <marker date="1517149516862" expanded="true" signature="169:176" ph="{...}" />
             <marker date="1517149516862" expanded="true" signature="231:238" ph="{...}" />
             <marker date="1517149516862" expanded="true" signature="285:352" ph="{...}" />
             <marker date="1517149516862" expanded="true" signature="315:349" ph="{...}" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
           </folding>
         </state>
@@ -995,17 +1213,23 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <marker date="1520958179536" expanded="false" signature="6:78" ph="..." />
             <marker date="1520958179536" expanded="true" signature="116:412" ph="{...}" />
             <marker date="1520958179536" expanded="true" signature="221:228" ph="{...}" />
             <marker date="1520958179536" expanded="true" signature="282:410" ph="{...}" />
             <marker date="1520958179536" expanded="true" signature="320:406" ph="{...}" />
 =======
+=======
+>>>>>>> parent of e94ca42... Correction de bug
             <marker date="1517174121122" expanded="false" signature="6:78" ph="..." />
             <marker date="1517174121122" expanded="true" signature="116:412" ph="{...}" />
             <marker date="1517174121122" expanded="true" signature="221:228" ph="{...}" />
             <marker date="1517174121122" expanded="true" signature="282:410" ph="{...}" />
             <marker date="1517174121122" expanded="true" signature="320:406" ph="{...}" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
           </folding>
         </state>
@@ -1026,10 +1250,16 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Assets/Script/OnCollision.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/Script/OptionMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
 =======
     <entry file="file://$PROJECT_DIR$/Assets/Script/OptionMenu.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -1044,6 +1274,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_Mouvement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="122" column="39" lean-forward="false" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
+>>>>>>> parent of e94ca42... Correction de bug
+          <folding>
+            <marker date="1517149516851" expanded="false" signature="6:103" ph="..." />
+            <marker date="1517149516851" expanded="true" signature="144:377" ph="{...}" />
+            <marker date="1517149516851" expanded="true" signature="212:281" ph="{...}" />
+            <marker date="1517149516851" expanded="true" signature="322:375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Assets/Script/Snake_Mouvement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -1119,6 +1364,10 @@
 =======
     <entry file="file://$PROJECT_DIR$/Assets/OnCollision.cs">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/Assets/OnCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of e94ca42... Correction de bug
         <state relative-caret-position="306">
           <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
           <folding>
@@ -1131,6 +1380,9 @@
             <marker date="1518110806737" expanded="true" signature="523:661" ph="{...}" />
             <marker date="1518110806737" expanded="true" signature="705:889" ph="{...}" />
             <marker date="1518110806737" expanded="true" signature="932:971" ph="{...}" />
+<<<<<<< HEAD
+>>>>>>> parent of e94ca42... Correction de bug
+=======
 >>>>>>> parent of e94ca42... Correction de bug
           </folding>
         </state>
