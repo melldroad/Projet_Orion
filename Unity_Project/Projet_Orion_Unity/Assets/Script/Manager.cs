@@ -17,7 +17,6 @@ public class Manager : MonoBehaviour
 	
 	#region Private_Variable
 	
-	private GameObject Snake_object;
 
 	#endregion
 	
@@ -47,7 +46,6 @@ public class Manager : MonoBehaviour
 	//Fonction called when player join a seveur
 	void OnJoinedLobby()
 	{
-		
 		Debug.Log("Joined Lobby");
 		PhotonNetwork.JoinRandomRoom();
      }
@@ -63,7 +61,7 @@ public class Manager : MonoBehaviour
 	void OnJoinedRoom()
 	{
 		Debug.Log("Joined");
-		Snake_object = PhotonNetwork.Instantiate(Snake, new Vector3(0,0,0), Quaternion.Euler(0,0,0), 0);
+		var Snake_object = PhotonNetwork.Instantiate(Snake, new Vector3(0,0,0), Quaternion.Euler(0,0,0), 0);
 		Snake_object.GetComponent<Snake_mouvement>().enabled = true;
 //		Snake_object.SetActive(false);
 //		Snake_object.SetActive(true);
