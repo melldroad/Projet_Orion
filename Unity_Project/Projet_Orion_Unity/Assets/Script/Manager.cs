@@ -63,7 +63,7 @@ public class Manager : MonoBehaviour
 	void OnJoinedRoom()
 	{
 		Debug.Log("Joined");
-		Snake_object = PhotonNetwork.Instantiate(Snake, Vector3.up, Quaternion.Euler(0,0,0), 0);
+		Snake_object = PhotonNetwork.Instantiate(Snake, new Vector3(0,0,0), Quaternion.Euler(0,0,0), 0);
 		Snake_object.GetComponent<Snake_mouvement>().enabled = true;
 //		Snake_object.SetActive(false);
 //		Snake_object.SetActive(true);

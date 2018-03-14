@@ -261,6 +261,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.OnAwakePhysicsSettings
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.OnCollisionRaycast
 4efe297689455799fab987dfaf7ba0d5 Assembly-CSharp.dll:.OnClickLoadSomething
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PointedAtGameObjectInfo
 ea580b2edab741d1d6e6445b14097645 Assembly-CSharp.dll:.RPGCamera
@@ -298,7 +299,7 @@ fe180736ec3bd9cf69fd20bbec04acfb Assembly-CSharp.dll:ExitGames.Demos.DemoAnimato
 6b7f3b627f03aa2dae54ad0ecb0a7d7a Assembly-CSharp.dll:.PhotonLagSimulationGui
 8e75c7ff572e377afe5aec0a3c77276b Assembly-CSharp.dll:.PickupCamera
 e29eedec83444c5ff91ad08de30f1219 Assembly-CSharp.dll:.GUICustomAuth
-6ba225d5863e2dc4cb4fe5d5791e86de Assembly-CSharp.dll:.Snake_Mouvement
+6ba225d5863e2dc4cb4fe5d5791e86de Assembly-CSharp.dll:.Snake_mouvement
 48a9dee325686d1924a2646b71c83f08 Assembly-CSharp.dll:TMPro.Examples.Benchmark01
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 8e75c7ff572e377afe5aec0a3c77276b Assembly-CSharp.dll:.ThirdPersonCamera
@@ -318,7 +319,7 @@ a2d612afa0d90f75edf1d10832a65609 Assembly-CSharp.dll:.JumpAndRunMovement
 1356b4a6096c35c829823b7e28399030 Assembly-CSharp.dll:.DemoMecanimGUI
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.VertexColorCycler
 d1755adc44fcb9e44c42a5889d35f7a0 Assembly-CSharp.dll:.MoveByKeys
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Collision
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.OnCollisionRaycast
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.QuitOnEscapeOrBack
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:ExitGames.Demos.DemoAnimator.PlayerNameInputField
 bd391be401e6d3724720058620cce6e5 Assembly-CSharp.dll:.ToHubButton
