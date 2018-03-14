@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 23480456252914970}
   - component: {fileID: 114435901639707046}
   - component: {fileID: 54115347238290440}
+  - component: {fileID: 114906961666983310}
   m_Layer: 0
   m_Name: snake_head
   m_TagString: Untagged
@@ -171,12 +172,12 @@ MonoBehaviour:
   group: 0
   OwnerShipWasTransfered: 0
   prefixBackup: -1
-  synchronization: 0
+  synchronization: 3
   onSerializeTransformOption: 3
   onSerializeRigidBodyOption: 2
-  ownershipTransfer: 0
+  ownershipTransfer: 1
   ObservedComponents:
-  - {fileID: 0}
+  - {fileID: 4980505761890806}
   ObservedComponentsFoldoutOpen: 1
   viewIdField: 0
   instantiationId: -1
@@ -193,6 +194,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6919fdff507c9714a82425600196d084, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114906961666983310
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1242101932620028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ownerId: 0
+  group: 0
+  OwnerShipWasTransfered: 0
+  prefixBackup: -1
+  synchronization: 3
+  onSerializeTransformOption: 3
+  onSerializeRigidBodyOption: 2
+  ownershipTransfer: 0
+  ObservedComponents:
+  - {fileID: 4980505761890806}
+  ObservedComponentsFoldoutOpen: 1
+  viewIdField: 0
+  instantiationId: -1
+  currentMasterID: -1
+  isRuntimeInstantiated: 0
 --- !u!135 &135061579359699048
 SphereCollider:
   m_ObjectHideFlags: 1
