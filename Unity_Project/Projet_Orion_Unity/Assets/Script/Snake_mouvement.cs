@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class snake_mouvement : MonoBehaviour
+public class Snake_mouvement : MonoBehaviour
 {
 
 	#region Public_Var
